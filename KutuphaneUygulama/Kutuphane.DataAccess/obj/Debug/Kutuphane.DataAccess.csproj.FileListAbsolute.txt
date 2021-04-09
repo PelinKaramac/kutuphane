@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.dll
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.pdb
