@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.Business\bin\Debug\Kutuphane.Business.dll
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.Business\bin\Debug\Kutuphane.Business.pdb
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.Business\obj\Debug\Kutuphane.Business.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.Business\obj\Debug\Kutuphane.Business.dll
+C:\Users\lenovo\source\repos\KutuphaneUygulama\Kutuphane.Business\obj\Debug\Kutuphane.Business.pdb

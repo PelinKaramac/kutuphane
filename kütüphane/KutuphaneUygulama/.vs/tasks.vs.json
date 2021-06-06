@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-Kutuphane",
+      "appliesTo": "Kutuphane.Web/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-KutuphaneUygulama",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
